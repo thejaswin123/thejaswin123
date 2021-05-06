@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div style="background-color:#34103b; padding:5vh">
 <h1 align="center">Hi 👋, I'm Thejaswin S 💻</h1> 
-<h3 align="center">A Second year undergraduate at 👨‍💻 SRM Institute of Science and Technology Pursuing B.Tech in CSE branch sepcialised in AIML. I am an Competitive Coder, Frontend Web Developer and have keen interest in Artificial intelligence and machine learning as well! Open Source and tech Enthusiast looking to collabarate with amazing developers to contribute to meaningful projects.</h3>
+<h3 align="center">A Second year undergraduate at 👨‍💻 SRM Institute of Science and Technology Pursuing B.Tech in CSE branch sepcialised in AIML. I am a Competitive Coder, Frontend Web Developer and have keen interest in Artificial intelligence and machine learning as well! Open Source and tech Enthusiast looking to collabarate with amazing developers to contribute to meaningful projects.</h3>
 <p align="center">
 <a href="https://medium.com/@thejas2002"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
 <a href="https://www.linkedin.com/in/thejaswin-s-22252318b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
