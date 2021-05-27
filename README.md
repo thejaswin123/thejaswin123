@@ -22,19 +22,21 @@ Here are some ideas to get you started:
 <a href=""><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
  </a> 
 </p>
+
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=thejaswin123&label=Profile%20views&color=0e75b6&style=flat" alt="Thejaswin S" /> </p> -->
 <hr>
-<table>
+<table align="center">
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/thejaswin123/count.svg" alt="vistor count" height="30" /></td>
   </tr>
 </table>
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejaswin123" alt="Thejaswin S" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejaswin123" alt="Thejaswin S" /></a> </p>
 
 <img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="400px" />  
-# Talking about Personal Stuffs:
+
+ # Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m currently working on **making websites and ML/OpenCV projects**
 - 🌱 I’m currently learning **Backend** and **Frontend Design**
