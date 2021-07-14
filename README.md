@@ -67,3 +67,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<div align="center">
+    
+![GitHub metrics](https://metrics.lecoq.io/thejaswin123)  
+</div>
