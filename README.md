@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejaswin123" alt="Thejaswin S" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejaswin123&row=1" alt="Thejaswin S" /></a> </p>
 
 <img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="400px" />  
 
