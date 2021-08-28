@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
  # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on **making websites and ML/OpenCV projects**
-- 🌱 I’m currently learning **Backend** and **Frontend Design**
-- 👯 I’m looking to collaborate on **AI & Full Stack Projects**</a>
+- 👨🏽‍💻 I’m currently working on **web dev and ML/OpenCV projects**
+- 🌱 I’m currently learning **MERN STACK**
+- 👯 I’m looking to collaborate on **AI & Full Stack web dev Projects**</a>
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/thejaswin123?tab=repositories">**Github**</a>
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: thejaswinsivakumar123@gmail.com
