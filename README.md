@@ -47,8 +47,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: competitive coder and frontend developer
 - **⚡ Fun fact about me: ✨ I love coding+eating+repeating✨**
 # Stats
- 
-![Profile View](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thejaswin123&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 
 <p align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thejaswin123&show_icons=true&theme=highcontrast&&count_private=true&hide=stars" />             <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejaswin123&layout=compact&theme=highcontrast&langs_count=6" />
