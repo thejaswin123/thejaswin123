@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **⚡ Fun fact about me: ✨ I love coding+eating+repeating✨**
 -->
 <div style="background-color:#34103b; padding:5vh">
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Thejaswin S 💻</h1> 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Thejaswin S 💻</h1> 
 <h3 align="center">A Third year undergraduate student at 👨‍💻 SRM Institute of Science and Technology Pursuing B.Tech CSE specialization in AIML. I am a Competitive Coder, Full stack Web Developer and also have have keen interest in Artificial intelligence and machine learning. Am also an Open Source contributor & Tech Enthusiast and looking forward to collabarate with amazing developers to work on meaningful projects.</h3>
 <p align="center">
 <a href="https://medium.com/@thejas2002"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejaswin123&row=1" alt="Thejaswin S" /></a> </p>
 
-<img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="400px" />  
+<img align="right" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="400px" height="250px"/>  
 
  # Talking about Personal Stuffs:
 
