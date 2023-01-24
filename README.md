@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Third year undergraduate student at 👨‍💻 SRM Institute of Science and Technology Pursuing B.Tech CSE specialization in AIML. I am a Competitive Coder, Full stack Web Developer and also have have keen interest in Artificial intelligence and machine learning. Am also an Open Source contributor & Tech Enthusiast and looking forward to collabarate with amazing developers to work on meaningful projects.</h3>
 <p align="center">
 <a href="https://medium.com/@thejas2002"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
-<a href="https://www.linkedin.com/in/thejaswin-s-22252318b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+<a href="https://www.linkedin.com/in/thejaswin-sivakumar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 <a href="https://www.instagram.com/theja60/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
 <a href="https://stackoverflow.com/users/11778440/thejaswin-s?tab=profile"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
  </a> 
