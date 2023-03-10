@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <h2 align='center'><i><a href="https://github.com/thejaswin123/github-readme-activity-graph">Activity Graph</i></h2>
 <p align="center">
 <a href="https://github.com/thejaswin123/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=thejaswin123&theme=react-dark&area=true&hide_border=true" width="100%">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=thejaswin123&bg_color=0d1017&color=ffffff&line=3985fe&point=00ace6&area=true&hide_border=true" width="100%">
 </a>
 </p>
 
