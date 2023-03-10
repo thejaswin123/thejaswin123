@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/thejaswin123?tab=repositories">**Github**</a>
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: thejaswinsivakumar123@gmail.com
-- 😄 Pronouns: competitive coder and frontend developer
+- 😄 Pronouns: He/Him/His
 - **⚡ Fun fact about me: ✨ I love coding+eating+repeating✨**
 # Stats
 
