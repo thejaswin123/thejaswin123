@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div style="background-color:#34103b; padding:5vh">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Thejaswin 💻</h1> 
-<h3 align="center">A Final Year Undergraduate student at 👨‍💻 SRM Institute of Science and Technology Pursuing B.Tech CSE specialization in AIML. I am a Competitive Coder, Full stack Web Developer and also have have keen interest in Artificial intelligence and machine learning. Am also an Open Source contributor & Tech Enthusiast and looking forward to collabarate with amazing developers to work on meaningful projects.</h3>
+<h3 align="center">I am a skilled Data Scientist and Full Stack Web Developer with a strong passion for competitive coding. Additionally, I actively contribute to open-source projects and thrive on collaborating with talented developers to work on impactful endeavors. With my expertise and enthusiasm for technology, I am eager to engage in meaningful projects that drive innovation and make a positive impact.</h3>
 <p align="center">
 <a href="https://medium.com/@thejas2002"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
 <a href="https://www.linkedin.com/in/thejaswin-sivakumar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
  # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on **web dev and ML/OpenCV projects**
-- 🌱 I’m currently learning **MERN STACK**
-- 👯 I’m looking to collaborate on **AI & Full Stack web dev Projects**</a>
+- 👨🏽‍💻 I’m currently working on **AI Projects**
+- 🌱 I’m currently learning about **Generative/Pathway Models**
+- 👯 I’m looking to collaborate on **AI & Full Stack Software Projects**</a>
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/thejaswin123?tab=repositories">**Github**</a>
-- 💬 Ask me about anything, I am happy to help
+- 💬 Ask me about anything; I am happy to help
 - 📫 How to reach me: thejaswinsivakumar123@gmail.com
 - 😄 Pronouns: He/Him/His
 - **⚡ Fun fact about me: ✨ I love coding+eating+repeating✨**
