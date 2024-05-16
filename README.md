@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div style="background-color:#34103b; padding:5vh">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Thejaswin 💻</h1> 
-<h3 align="center">I am a skilled Data Scientist and Full Stack Web Developer with a strong passion for competitive coding. Additionally, I actively contribute to open-source projects and thrive on collaborating with talented developers to work on impactful endeavors. With my expertise and enthusiasm for technology, I am eager to engage in meaningful projects that drive innovation and make a positive impact.</h3>
+<h3 align="center">I am a Data Scientist with a passion for competitive coding. Additionally, I actively contribute to open-source projects and thrive on collaborating with talented developers to work on impactful endeavors. With my expertise and enthusiasm for technology, I am eager to engage in meaningful projects that drive innovation and make a positive impact.</h3>
 <p align="center">
 <a href="https://medium.com/@thejas2002"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
 <a href="https://www.linkedin.com/in/thejaswin-sivakumar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
