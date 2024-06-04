@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">, I'm Thejaswin 💻</h1> 
 <h3 align="center">I am a Data Scientist with a passion for competitive coding. Additionally, I actively contribute to open-source projects and thrive on collaborating with talented developers to work on impactful endeavors. With my expertise and enthusiasm for technology, I am eager to engage in meaningful projects that drive innovation and make a positive impact.</h3>
 <p align="center">
-<a href="https://medium.com/@thejas2002"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
 <a href="https://www.linkedin.com/in/thejaswin-sivakumar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-<a href="https://www.instagram.com/theja60/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+<a href="https://x.com/Thejaswin123"><img src="https://img.shields.io/twitter/follow/thejaswin123?label=Follow" height=25>
+<a href="https://t.co/qvCuU0T3jv"><img src="https://img.shields.io/badge/-Thejaswin-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/thejas2002" height=25>
+<a href="https://medium.com/@thejas2002"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
 <a href="https://stackoverflow.com/users/11778440/thejaswin-s?tab=profile"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
  </a> 
 </p>
