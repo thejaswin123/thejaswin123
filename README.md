@@ -39,14 +39,19 @@ Here are some ideas to get you started:
 
  # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on **AI Projects**
-- 🌱 I’m currently learning about **Generative/Pathway Models**
-- 👯 I’m looking to collaborate on **AI & Full Stack Software Projects**</a>
+- 👨🏽‍💻 I’m currently working on leveraging AI for intellectual property management, focusing on automating and enhancing various processes involved in IP protection and enforcement.
+- 🌱 I’m currently learning about **Graph RAG**
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/thejaswin123?tab=repositories">**Github**</a>
 - 💬 Ask me about anything; I am happy to help
 - 📫 How to reach me: thejaswinsivakumar123@gmail.com
 - 😄 Pronouns: He/Him/His
-- **⚡ Fun fact about me: ✨ I love coding+eating+repeating✨**
+
+ # My Published Papers
+ - [Exploring Fusion Techniques and Explainable AI on Adapt-FuseNet: Context-Adaptive Fusion of Face and Gait for Person Identification (2024)](https://ieeexplore.ieee.org/document/10540048)
+ - [Adapt-FuseNet: Context-aware Multimodal Adaptive Fusion of Face and Gait Features using Attention Techniques for Human Identification (2023)](https://ieeexplore.ieee.org/document/10448765)
+ - [Mapping Distinct Source and Target Domains on Amazon Product Customer Critiques with Cross Domain Sentiment Analysis (2022)](https://ieeexplore.ieee.org/document/9742732)
+
+
 # Stats
 
 <p align="left">
