@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/thejaswin-sivakumar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 <a href="https://x.com/Thejaswin123"><img src="https://img.shields.io/twitter/follow/thejaswin123?label=Follow" height=25>
 <a href="https://t.co/qvCuU0T3jv"><img src="https://img.shields.io/badge/-Thejaswin-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/thejas2002" height=25>
-<a href="https://medium.com/@thejas2002"><img src="https://aleen42.github.io/badges/src/medium.svg" height=25></a> 
-<a href="https://stackoverflow.com/users/11778440/thejaswin-s?tab=profile"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25>
- </a> 
+<a href="https://stackoverflow.com/users/11778440/thejaswin-s?tab=profile"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" height=25></a>
+<a href="https://leetcode.com/u/thejaswin123/"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fthejaswin123&logo=leetcode&logoColor=yellow" height=25></a>
 </p>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=thejaswin123&label=Profile%20views&color=0e75b6&style=flat" alt="Thejaswin S" /> </p> -->
