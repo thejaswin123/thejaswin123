@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
  # Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently working on leveraging AI for intellectual property management, focusing on automating and enhancing various processes involved in IP protection and enforcement.
-- 🌱 I’m currently learning about **Graph RAG**
+- 👨🏽‍💻 I’m currently leveraging AI to solve problems for social good.
+- 🌱 I’m currently learning about **RPA**
 - 👨‍💻 Some of my projects are available at my <a href="https://github.com/thejaswin123?tab=repositories">**Github**</a>
 - 💬 Ask me about anything; I am happy to help
 - 📫 How to reach me: thejaswinsivakumar123@gmail.com
